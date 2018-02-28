@@ -1,3 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff; }
 
+body {
+  width: 70%;
+  margin: 0 auto; }
+
+.main-article p {
+  margin: 0.5em 0.5em 0.5em 0.5em; }
+
+.aside-right p {
+  margin: 0.5em 0.5em 0.5em 0.5em;
+  font-weight: bold; }
 
 /*# sourceMappingURL=styles.css.map */

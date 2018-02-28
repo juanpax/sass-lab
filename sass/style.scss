@@ -1,0 +1,32 @@
+@import 'reset';
+
+body{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main-article{
+    p{
+        margin: 0.5em 0.5em 0.5em 0.5em;
+    }
+}
+
+.aside-right{
+    p{
+        margin: 0.5em 0.5em 0.5em 0.5em;
+        font-weight: bold;
+    }
+}
+
+%titles-style {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: #333;
+  }
+
+
+
+
+
+
+
